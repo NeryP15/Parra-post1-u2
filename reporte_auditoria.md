@@ -46,16 +46,16 @@ H10-B (Ayuda): El acceso a un asesor humano está profundamente oculto bajo capa
 
 | Prioridad | ID | Heurística Violada | Severidad Final | Recomendación |
 | :--- | :--- | :--- | :---: | :--- |
-| **1** | H3-B | Control y libertad | 4 | Implementar un botón de "Deshacer" por 3 segundos tras el envío. |
-| **2** | H9-B | Recuperación de errores | 3 | Añadir botón de "Trasladar desde Bolsillos" en el error de saldo. |
-| **3** | H10-B | Ayuda y documentación | 3 | Simplificar el acceso al chat humano en el centro de ayuda. |
-| **4** | H7-B | Flexibilidad de uso | 3 | Implementar historial de datos para pagos de servicios recurrentes. |
-| **5** | H4-C | Consistencia | 2 | Unificar el estilo visual de todos los iconos de servicios. |
-| **6** | H1-C | Visibilidad del estado | 2 | Agregar un "spinner" o carga visual mientras se actualiza el saldo. |
-| **7** | H2-A | Mundo real | 2 | Cambiar términos bancarios por lenguaje cotidiano y simple. |
-| **8** | H6-B | Reconocimiento | 2 | Incluir fotos de perfil en la lista de contactos favoritos. |
-| **9** | H8-A | Estética minimalista | 1 | Agrupar la publicidad de terceros en una sección menos invasiva. |
-| **10** | H5-C | Prevención de errores | 1 | Configurar el teclado numérico por defecto en campos de monto. |
+| **1** | H3 | Control y libertad | 4 | Implementar un botón de "Deshacer" por 3 segundos tras el envío. |
+| **2** | H9 | Recuperación de errores | 3 | Añadir botón de "Trasladar desde Bolsillos" en el error de saldo. |
+| **3** | H10 | Ayuda y documentación | 3 | Simplificar el acceso al chat humano en el centro de ayuda. |
+| **4** | H7 | Flexibilidad de uso | 3 | Implementar historial de datos para pagos de servicios recurrentes. |
+| **5** | H4 | Consistencia | 2 | Unificar el estilo visual de todos los iconos de servicios. |
+| **6** | H1 | Visibilidad del estado | 2 | Agregar un "spinner" o carga visual mientras se actualiza el saldo. |
+| **7** | H2 | Mundo real | 2 | Cambiar términos bancarios por lenguaje cotidiano y simple. |
+| **8** | H6 | Reconocimiento | 2 | Incluir fotos de perfil en la lista de contactos favoritos. |
+| **9** | H8 | Estética minimalista | 1 | Agrupar la publicidad de terceros en una sección menos invasiva. |
+| **10** | H5 | Prevención de errores | 1 | Configurar el teclado numérico por defecto en campos de monto. |
 
 ## 5. Análisis de Patrones
 Se identificaron dos patrones recurrentes que afectan la usabilidad de la aplicación:
