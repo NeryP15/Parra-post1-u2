@@ -1,5 +1,5 @@
 # Parra-post1-u2
-# Auditoría Heurística - Nequi (v. [Escribe la versión aquí])
+# Auditoría Heurística - Nequi 
 
 ## 1. Descripción del Proyecto
 Este proyecto consiste en una auditoría de usabilidad sistemática aplicada a la aplicación móvil **Nequi** (Plataforma: Android/iOS), utilizando las 10 heurísticas de Jakob Nielsen.
